@@ -2,7 +2,9 @@
  * 
  */
 package p20150508e4;
-
+/**
+* Aquí ha estado Angel Martinez Gomez
+*/
 /**
  * Utilidades relacionadas con la informática.
  * Desarrollado para la prueba de recuperación P20150508.
